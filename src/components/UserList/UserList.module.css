@@ -1,0 +1,13 @@
+.users ul {
+    width: 100%;
+    list-style: none;
+    padding: 1rem;
+}
+
+.users>ul li {
+    list-style: none;
+    border: 1px solid grey;
+    margin: 1rem;
+    padding: .5rem;
+    width: 90%;
+}
